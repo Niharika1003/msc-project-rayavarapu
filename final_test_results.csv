@@ -1,0 +1,10 @@
+Experiment,Model,Slice Accuracy (%),Patient Accuracy (%),Patient Macro F1
+E01,MRI CNN,68.0,66.67,0.525
+E02,CT CNN,48.0,53.33,0.341
+E03,Multimodal CNN,60.0,73.33,0.615
+E04,MRI ResNet50,73.33,73.33,0.716
+E05,CT ResNet50,58.67,73.33,0.519
+E06,Multimodal ResNet50,61.33,80.0,0.671
+E07,MRI EfficientNetB0,66.67,80.0,0.657
+E08,CT EfficientNetB0,62.67,66.67,0.429
+E09,Multimodal EfficientNetB0,72.0,73.33,0.556

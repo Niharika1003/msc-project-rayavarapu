@@ -1,0 +1,4 @@
+Experiment,Slice Accuracy (%),Slice Loss,Patient Accuracy (%),Patient Macro F1,Patient Weighted F1
+E01 - MRI-only,68.0,0.7326,66.67,0.525,0.652
+E02 - CT-only,48.0,1.084,53.33,0.341,0.499
+E03 - Multimodal,60.0,0.841,73.33,0.615,0.746

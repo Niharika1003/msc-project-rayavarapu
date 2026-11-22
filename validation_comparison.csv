@@ -1,0 +1,10 @@
+Experiment,Epochs Trained,Best Val Accuracy (%),Best Val Loss,Best Loss Epoch,Train Accuracy at Best Loss (%),Val Accuracy at Best Loss (%),Accuracy Gap (pp)
+E01 - MRI CNN,12,60.0,0.9662,7,74.86,57.33,17.52
+E02 - CT CNN,10,45.33,1.0129,5,61.14,38.67,22.48
+E03 - Multimodal CNN,17,60.0,0.9725,12,55.43,52.0,3.43
+E04 - MRI ResNet50,30,77.33,0.5743,30,97.71,76.0,21.71
+E05 - CT ResNet50,24,68.0,0.9909,19,95.14,66.67,28.48
+E06 - Multimodal ResNet50,19,70.67,0.714,14,98.29,68.0,30.29
+E07 - MRI EfficientNetB0,30,62.67,0.7795,30,92.0,62.67,29.33
+E08 - CT EfficientNetB0,30,64.0,0.8131,30,92.57,62.67,29.9
+E09 - Multimodal EfficientNetB0,30,72.0,0.6758,27,98.57,70.67,27.9
